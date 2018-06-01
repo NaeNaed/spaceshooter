@@ -19,3 +19,6 @@ God has fortold this day would come... Ian Hawke has come to our world to take o
 ## Screenshots
 ![alt_text](https://github.com/NaeNaed/spaceshooter/blob/master/screenshots/startscreen.PNG "Chip Invaders")
 ![alt_text](https://github.com/NaeNaed/spaceshooter/blob/master/screenshots/gameplay.PNG "Chip Invaders Gameplay")
+
+## Download
+[Download Link](https://github.com/NaeNaed/spaceshooter/releases/download/1.0.0/Chip.Invaders.exe)
