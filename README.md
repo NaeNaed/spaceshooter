@@ -17,8 +17,8 @@ God has fortold this day would come... Ian Hawke has come to our world to take o
 - Ian Hawke : Ian Hawke is unknown in his strengths, the only thing known about him is his powerful shots that he only shoots after his whole army falls. Ian Hawke contains 250 health and gives 1000000 points.
 
 ## Screenshots
-![alt_text](https://github.com/NaeNaed/spaceshooter/blob/master/screenshots/startscreen.PNG "Chip Invaders")
-![alt_text](https://github.com/NaeNaed/spaceshooter/blob/master/screenshots/gameplay.PNG "Chip Invaders Gameplay")
+![alt_text](https://raw.githubusercontent.com/NaeNaed/spaceshooter/master/screenshots/startscreen.PNG "Chip Invaders")
+![alt_text](https://raw.githubusercontent.com/NaeNaed/spaceshooter/master/screenshots/gameplay.PNG "Chip Invaders Gameplay")
 
 ## Download
 [Download Link](https://github.com/NaeNaed/spaceshooter/releases/download/1.0.0/Chip.Invaders.exe)
